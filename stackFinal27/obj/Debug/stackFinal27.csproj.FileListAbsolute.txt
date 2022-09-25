@@ -1,0 +1,12 @@
+D:\Programming\stackFinal27\stackFinal27\bin\Debug\stackFinal27.exe.config
+D:\Programming\stackFinal27\stackFinal27\bin\Debug\stackFinal27.exe
+D:\Programming\stackFinal27\stackFinal27\bin\Debug\stackFinal27.pdb
+D:\Programming\stackFinal27\stackFinal27\obj\Debug\stackFinal27.csprojAssemblyReference.cache
+D:\Programming\stackFinal27\stackFinal27\obj\Debug\stackFinal27.Form1.resources
+D:\Programming\stackFinal27\stackFinal27\obj\Debug\stackFinal27.Properties.Resources.resources
+D:\Programming\stackFinal27\stackFinal27\obj\Debug\stackFinal27.csproj.GenerateResource.cache
+D:\Programming\stackFinal27\stackFinal27\obj\Debug\stackFinal27.csproj.CoreCompileInputs.cache
+D:\Programming\stackFinal27\stackFinal27\obj\Debug\stackFinal27.exe
+D:\Programming\stackFinal27\stackFinal27\obj\Debug\stackFinal27.pdb
+D:\Programming\stackFinal27\stackFinal27\obj\Debug\stackFinal27.Form2.resources
+D:\Programming\stackFinal27\stackFinal27\obj\Debug\stackFinal27.Form3.resources
